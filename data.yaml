@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Colab Notebooks/pictures_for_models/images/train
+val: /content/drive/MyDrive/Colab Notebooks/pictures_for_models/images/val
+test: /content/drive/MyDrive/Colab Notebooks/pictures_for_models/images/test
+nc: 2
+names: ['tiny_hand','normal_hand']
