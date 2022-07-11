@@ -1,4 +1,4 @@
-# NSS DS5 Capstone
+# NSS DS5 Capstone - One Tiny Model
 
 ## Executive Summary
 The goal of this project was to web scrape pictures from “[One Tiny Hand](https://onetinyhand.com/)” and build a deep learning model that detects the one tiny hand in each picture. What it turned into was a exploration of image processing and unsupervised and supervised learning techniques.
