@@ -22,4 +22,4 @@ The goal of this project was to web scrape pictures from “[One Tiny Hand](http
 
 ## Final Product
 
-TO BE ADDED.
+See the final presentation [here](https://github.com/charre2021/NSS_Capstone/blob/main/Capstone_Presentation.pdf).
